@@ -51,3 +51,6 @@ ICO takes place with a price from $4,9 to $8,6 and a bonus from 75% to 0%. The f
 
 **Token address** - 0xbfab8188b4a0bdaa4da9bd900d9a6f32d08ad810 (**it's not the crowdsale address**)
 **Token Symbol** - ZAB
+**Decimals** - 18
+
+**[See FAQ](http://www.zabercoin.io/faq.html)**
