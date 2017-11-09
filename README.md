@@ -18,10 +18,11 @@ To establish Zabercoin as the preferred real estate digital token by providing a
 **Token price in ETH for Pre-ICO:**
 -----------------------------------
 
-Minimum (10 ETH) 
+Minimum (10 ETH)
 Permanent 75% bonus.
 1 ETH = 61,25 ZAB
-Pre-ICO duration - 15 days:
+
+**Pre-ICO duration - 15 days:**
 **From:** 10 November 2017 11:00:00 UTC (unixtime=1510311600)
 **To:** 25 November 2017 11:00:00 UTC (unixtime=1511607600)
 *Do not pay before or after these periods*
