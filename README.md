@@ -54,3 +54,4 @@ ICO takes place with a price from $4,9 to $8,6 and a bonus from 75% to 0%. The f
 **Decimals** - 18  
 
 **[See FAQ](http://www.zabercoin.io/faq.html)**
+**[Telegram Open Chat](https://t.me/zabercoinchat)**
